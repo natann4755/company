@@ -1,0 +1,42 @@
+section{
+    display: inline-block;
+    border: 5px dashed blue;
+    margin:5%;
+
+}
+table{
+    border: 2px solid gray;
+    margin: auto;
+    margin-top: 10%;  
+}
+
+table th{
+    font-size: 20px;
+    border: 1px solid black;
+    font-weight: bold;  
+}
+td{
+    
+    font-size: 17px;
+    border: 1px solid black;
+}
+.clas1{
+    /* display: flex; */
+    justify-content: center;
+    height: 400px;
+    width: 33%;
+    background: orange;
+    text-align: center;
+    /* display: inline-block; */
+}
+.bigdiv{
+    background: lightgray;
+    
+    /* text-align: center; */
+}
+label{
+    font-size: 25px;
+}
+select{
+    font-size: 10px;
+}
